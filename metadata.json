@@ -1,0 +1,6 @@
+{
+  "name": "My Finance Manager",
+  "description": "Native Android personal finance app with offline bank statement PDF import, multi-account tracking, loan management, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
